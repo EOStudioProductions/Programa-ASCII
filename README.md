@@ -1,4 +1,4 @@
 # ascii
 # Execute este programa no terminal do Linux ou no prompt de comando do Windows.
-# Segue abaixo o comando para executar:
-# python caractere1.0.py
+# Segue abaixo exemplo do comando para executar para executar no prompt de comando do Windows:
+# cd Desktop\python caractere1.0.py
